@@ -1,0 +1,92 @@
+ html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+}
+.navbar {
+  margin-bottom: 50px;
+  border-radius: 0;
+}
+
+/* Remove the jumbotron's default bottom margin */ 
+ .jumbotron {
+  margin-bottom: 0;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.descr {
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    padding-left: 30px;
+    margin-bottom: 0;
+}
+
+.descr p {
+    border-top: 1px solid black;
+    padding-top: 50px;
+}
+
+.daltonien{
+	background-color: rgba(0, 255, 0, 0.3);
+}
+
+.delete{
+	position: absolute;
+	top: 6px;
+	right: 10px;
+	width: 20px;
+	padding-left: 5px;
+	line-height: 23px;
+	font-size: 20px;
+	cursor: pointer;
+}
