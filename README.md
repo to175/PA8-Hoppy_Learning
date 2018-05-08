@@ -7,7 +7,7 @@
 3. Screenshots
 4. Technologies
    1. Security
-   1. Architecture
+   2. Architecture
 
 # Hoppy Learning
 Hoppy Learning is the match of 8 students of EFREI Paris Engineering School. The project was first aiming at creating an e-learning VR-enriched website for people with disabilities. Everybody could have learned languages on "Hope/Happy Learning".
